@@ -35,3 +35,5 @@ Total Expenses: $116.60
 - `add_expenses(description, amount)` - Add a new expense
 - `view_expenses()` - Display all expenses
 - `total_expenses()` - Show total amount spent
+
+- This is very simple daily expense tracker project.
