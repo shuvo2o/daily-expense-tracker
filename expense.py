@@ -1,4 +1,4 @@
-# Daily expense tracker
+# Daily expense tracker program
 expenses = []
 def add_expenses(description, amount):
     expenses.append({"description": description, "amount":amount})
