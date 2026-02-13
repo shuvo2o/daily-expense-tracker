@@ -1,6 +1,6 @@
 # Daily Expense Tracker
 
-A simple Python application to track and manage daily expenses.
+A Simple  Python applications to track and manage daily expenses.
 
 ## Features
 
