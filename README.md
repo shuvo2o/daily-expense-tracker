@@ -5,7 +5,7 @@ A Simple  Python applications to track and manage daily expenses.
 ## Features
 
 - Add expenses with description and amount
-- View all recorded expenses
+- View all recorded expense
 - Calculate total expenses
 
 ## Usage
